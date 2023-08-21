@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sergiozuloaga10
-- 👀 I’m interested in ... programar
-- 🌱 I’m currently learning ... cosas
-- 💞️ I’m looking to collaborate on ... maicra
+- 👀 I’m interested in ... code, music and football
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... xd
 
 <!---
