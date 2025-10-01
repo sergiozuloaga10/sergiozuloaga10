@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sergio Zuloaga Santa María</h1>
+<h1 align="center">Hi 👋, I'm Sergio Zuloaga Santa Maria</h1>
 <h3 align="center">Fullstack Developer | Computer Engineering Student | Passionate about Web Development and Software Solutions</h3>
 
 ---
 
-🎓 I'm a Computer Engineering student at UNAM (FES Aragón), currently in my 8th semester.  
+🎓 I'm a Computer Engineering student at UNAM (FES Aragón), currently in my 9th semester.  
 💻 I have hands-on experience building web applications using modern technologies on both frontend and backend sides.  
 🧠 I'm passionate about creating fast, scalable, and user-friendly applications, and I'm always looking to improve my skills.  
 ✨ I'm happy working in **software development**, **frontend**, or **backend** — all of them challenge and excite me equally.  
-🔧 Currently, I’m doing my social service at **Pemex Logística**, developing fullstack web solutions.  
+🔧 Currently, I’m doing an Internship at **Hitss**, learning more about digital solutions.  
 
 ---
 
